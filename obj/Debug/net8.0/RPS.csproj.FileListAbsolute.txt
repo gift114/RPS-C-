@@ -1,0 +1,28 @@
+C:\Users\Bashir Lamina\Desktop\Hibat Project\csharp\RPS\obj\Debug\net8.0\RPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bashir Lamina\Desktop\Hibat Project\csharp\RPS\obj\Debug\net8.0\RPS.AssemblyInfoInputs.cache
+C:\Users\Bashir Lamina\Desktop\Hibat Project\csharp\RPS\obj\Debug\net8.0\RPS.AssemblyInfo.cs
+C:\Users\Bashir Lamina\Desktop\Hibat Project\csharp\RPS\obj\Debug\net8.0\RPS.csproj.CoreCompileInputs.cache
+C:\Users\Bashir Lamina\Desktop\Hibat Project\csharp\RPS\bin\Debug\net8.0\RPS.exe
+C:\Users\Bashir Lamina\Desktop\Hibat Project\csharp\RPS\bin\Debug\net8.0\RPS.deps.json
+C:\Users\Bashir Lamina\Desktop\Hibat Project\csharp\RPS\bin\Debug\net8.0\RPS.runtimeconfig.json
+C:\Users\Bashir Lamina\Desktop\Hibat Project\csharp\RPS\bin\Debug\net8.0\RPS.dll
+C:\Users\Bashir Lamina\Desktop\Hibat Project\csharp\RPS\bin\Debug\net8.0\RPS.pdb
+C:\Users\Bashir Lamina\Desktop\Hibat Project\csharp\RPS\obj\Debug\net8.0\RPS.dll
+C:\Users\Bashir Lamina\Desktop\Hibat Project\csharp\RPS\obj\Debug\net8.0\refint\RPS.dll
+C:\Users\Bashir Lamina\Desktop\Hibat Project\csharp\RPS\obj\Debug\net8.0\RPS.pdb
+C:\Users\Bashir Lamina\Desktop\Hibat Project\csharp\RPS\obj\Debug\net8.0\RPS.genruntimeconfig.cache
+C:\Users\Bashir Lamina\Desktop\Hibat Project\csharp\RPS\obj\Debug\net8.0\ref\RPS.dll
+C:\Users\HIBATULLAH\Desktop\Hibat Project\csharp\RPS\obj\Debug\net8.0\RPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HIBATULLAH\Desktop\Hibat Project\csharp\RPS\obj\Debug\net8.0\RPS.AssemblyInfoInputs.cache
+C:\Users\HIBATULLAH\Desktop\Hibat Project\csharp\RPS\obj\Debug\net8.0\RPS.AssemblyInfo.cs
+C:\Users\HIBATULLAH\Desktop\Hibat Project\csharp\RPS\obj\Debug\net8.0\RPS.csproj.CoreCompileInputs.cache
+C:\Users\HIBATULLAH\Desktop\Hibat Project\csharp\RPS\obj\Debug\net8.0\RPS.dll
+C:\Users\HIBATULLAH\Desktop\Hibat Project\csharp\RPS\obj\Debug\net8.0\refint\RPS.dll
+C:\Users\HIBATULLAH\Desktop\Hibat Project\csharp\RPS\obj\Debug\net8.0\RPS.pdb
+C:\Users\HIBATULLAH\Desktop\Hibat Project\csharp\RPS\bin\Debug\net8.0\RPS.exe
+C:\Users\HIBATULLAH\Desktop\Hibat Project\csharp\RPS\bin\Debug\net8.0\RPS.deps.json
+C:\Users\HIBATULLAH\Desktop\Hibat Project\csharp\RPS\bin\Debug\net8.0\RPS.runtimeconfig.json
+C:\Users\HIBATULLAH\Desktop\Hibat Project\csharp\RPS\bin\Debug\net8.0\RPS.dll
+C:\Users\HIBATULLAH\Desktop\Hibat Project\csharp\RPS\bin\Debug\net8.0\RPS.pdb
+C:\Users\HIBATULLAH\Desktop\Hibat Project\csharp\RPS\obj\Debug\net8.0\RPS.genruntimeconfig.cache
+C:\Users\HIBATULLAH\Desktop\Hibat Project\csharp\RPS\obj\Debug\net8.0\ref\RPS.dll
